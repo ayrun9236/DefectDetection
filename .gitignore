@@ -21,6 +21,11 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+detection_results/
+dl_detection_results/
+generated_defects/
+models/
+test_defects/
 *.egg-info/
 .installed.cfg
 *.egg
